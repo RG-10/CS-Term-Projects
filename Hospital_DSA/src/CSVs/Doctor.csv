@@ -1,0 +1,12 @@
+1,1,Brain,1
+2,2,Lungs,1
+3,3,Liver,2
+4,4,Bladder,2
+5,5,Kidneys,3
+6,6,Heart,3
+7,7,Stomach,4
+8,8,Skull,4
+9,9,Stomach,5
+10,10,Bladder,6
+11,2,FeverDisease,2
+12,2,LungDisease,2

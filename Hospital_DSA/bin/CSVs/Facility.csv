@@ -1,0 +1,16 @@
+1,XRAY,400
+2,MRI,6000
+3,Mri,4000
+4,Trolley,4000
+5,ECG-Monitor,5000
+6,Infusion-Pump,1000
+7,ICU-Bed,2000
+8,Spotlight,3000
+9,Defibrillator,4000
+10,Ventilator,5000
+11,UltraSonic-Washer,6000
+12,Sphygmomanometer,7000
+13,Stethoscope,8000
+14,Fetoscope,9000
+15,Distiller,8000
+16,Ophthalmoscope,7000
