@@ -37,6 +37,32 @@ Hi my name is Usama Raheem and above is my ASSIGNMENT on Arrays in my core subje
 In this project I store the data in CSV files so i can easily retrieve the entered data accordingly
 
 
+# Project-4  Hospital Managment System (CS-DSA-Semester-3)
+
+Hi...there. Again its me Usama Raheem. The above package names Hospital_DSA is my CS- term Project. In this project my fellow collegues and I have developed a very attractive and user friendly Hospital managment system.
+There are some functionalities describe below:
+# User Functionalities
+1. Admin module at hospital
+2. Doctor module
+3. Patient module
+4. Staff module
+5. Laboritory Module
+6. Facilities Module
+7. Rooms Module
+
+# Functionalities In Modules
+1. Add new Reord
+2. See previous record with ID
+3. see previous record with name
+4. Update record
+5. Delete one record
+6. Delete all record.
+7. Exit
+
+# Data-Storage 
+here in this project my collegues and I had used FileHandling to store the Hospital data in CSV files. We can access our data very easily without any difficulties.
+
+
 
 
 
